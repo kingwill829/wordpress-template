@@ -1,0 +1,21 @@
+#masthead {
+	padding:$baseline;
+	background-color:$grey--light;
+}
+
+@media screen and (min-width:$desktop--min) {
+#masthead {
+	display:flex;
+	justify-content:start;
+	}	
+.masthead__logo {
+	width:20%;
+}
+.masthead__nav {
+	display:flex;
+	align-items:center;
+}
+.nav ul li {
+	display:inline;
+}
+}

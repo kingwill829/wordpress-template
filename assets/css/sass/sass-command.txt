@@ -1,0 +1,2 @@
+sass --watch /Users/willking/localhost/_blank-wordpress/wp-content/themes/_blank-wordpress/assets/css/sass:/Users/willking/localhost/_blank-wordpress/wp-content/themes/_blank-wordpress/ --style compressed  --sourcemap=none
+
